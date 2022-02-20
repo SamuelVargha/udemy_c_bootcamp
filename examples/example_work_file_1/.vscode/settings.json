@@ -1,0 +1,11 @@
+{
+	"window.zoomLevel": -1,
+	"files.associations": {
+		"stdlib.h": "c",
+		"stdint.h": "c",
+		"stdio.h": "c",
+		"string.h": "c",
+		"typeinfo": "c",
+		"mod1.h": "c"
+	}
+}
